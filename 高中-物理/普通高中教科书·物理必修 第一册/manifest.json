@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·物理必修 第一册",
+  "originalFilename": "普通高中教科书·物理必修 第一册.pdf",
+  "originalSize": 12944482,
+  "chunkSize": 5242880,
+  "chunkCount": 3,
+  "sha256": "b0a84622a6ddc13c693ace0c5f4c8e906d7343ce2da47aa5ff396d063b88052a",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "eecbee1e49b002b8d091e5aa87937730415bd8b951d5420695622bc28b32e1f7"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "1edff14b2004faa2f4b80553c18cc7b38adab308cba40546a4390924f19d3f85"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 2458722,
+      "sha256": "bc517514c53f28ac1f565eefc993e3c5b9e24b27e8836e05eeff8de5bd2287f0"
+    }
+  ]
+}

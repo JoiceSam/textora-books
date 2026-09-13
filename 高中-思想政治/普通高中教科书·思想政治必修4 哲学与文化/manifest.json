@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·思想政治必修4 哲学与文化",
+  "originalFilename": "普通高中教科书·思想政治必修4 哲学与文化.pdf",
+  "originalSize": 15261112,
+  "chunkSize": 5242880,
+  "chunkCount": 3,
+  "sha256": "79ac3ea98a9b446f0da93226d06fec68271dfd18207aba69904d82ceae8982ef",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "cb0d9329b755b0efad3c0b364fc75b4f4bf267583f58151a98c951cee0dd9be6"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "772ccd76e9955923ee69f78e9b1b5bf30277d0a3b9a75f944ace9db5b3c34cc8"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 4775352,
+      "sha256": "5daca75bafd2409bba2ca52c10c194948138343409acc201157f131f992db23a"
+    }
+  ]
+}

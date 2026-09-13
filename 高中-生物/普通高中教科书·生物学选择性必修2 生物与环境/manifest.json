@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·生物学选择性必修2 生物与环境",
+  "originalFilename": "普通高中教科书·生物学选择性必修2 生物与环境.pdf",
+  "originalSize": 22895437,
+  "chunkSize": 5242880,
+  "chunkCount": 5,
+  "sha256": "ad61d8470304b8c239a9fffd27bad2efd1e8b6eedec1f50a7a26afecb86b2349",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "125731355f535ac7630e291bad38820282167c692d7c35d0994e018ebe0f255e"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "b9ab89a57f3fa7fd6fa661220d36009384fa5826083a415d0f9aab775c764b8e"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5242880,
+      "sha256": "fc9d13e98640034cb51865d64045eca4655d8ade3ef7949c03b6b09d3bd8216e"
+    },
+    {
+      "index": 4,
+      "filename": "part-004.bin",
+      "size": 5242880,
+      "sha256": "7c837506a79e6d710a5dd4bc79b456030951687f008214884265e3f9f3a7d9a8"
+    },
+    {
+      "index": 5,
+      "filename": "part-005.bin",
+      "size": 1923917,
+      "sha256": "4800189f0c9c008c4d6d219e7cfb7b45d36fa0f38f59aa30b5493c28daf4e285"
+    }
+  ]
+}

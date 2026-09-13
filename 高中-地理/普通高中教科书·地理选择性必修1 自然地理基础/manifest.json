@@ -1,0 +1,48 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·地理选择性必修1 自然地理基础",
+  "originalFilename": "普通高中教科书·地理选择性必修1 自然地理基础.pdf",
+  "originalSize": 26572152,
+  "chunkSize": 5242880,
+  "chunkCount": 6,
+  "sha256": "ca4000b901ce3142d7b97ab54f45add4ebbf800e0d330b7a2b9df8fdfb610889",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "1cc001bbc7cc94e0793a22d6bb86e120bdb8f0eae422ca7451b4710bd95838d1"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "1d5b632c0b55e140feca19ed5f87f88ad6ad1c8d4cd15fbce6f8f0c2c46726a3"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5242880,
+      "sha256": "f1c4c46fa445a8ffb48b780deda19f87ffd6fc03939c3733ed5a2a4bffcb1383"
+    },
+    {
+      "index": 4,
+      "filename": "part-004.bin",
+      "size": 5242880,
+      "sha256": "230df3bfcc5a0f066094daa6c8992876a14d677795dd660cf9d4776603d5ca62"
+    },
+    {
+      "index": 5,
+      "filename": "part-005.bin",
+      "size": 5242880,
+      "sha256": "b578a3660f4ec91c4fc27111b0d783e797ea7270b817921fa3aa586b800f3974"
+    },
+    {
+      "index": 6,
+      "filename": "part-006.bin",
+      "size": 357752,
+      "sha256": "4eaa42072acd0396cd0e9b6332ee6ff4d330f62bd5d0079a665a9109aa3bc0ba"
+    }
+  ]
+}

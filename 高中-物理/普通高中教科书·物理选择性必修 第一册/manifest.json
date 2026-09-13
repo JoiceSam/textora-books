@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·物理选择性必修 第一册",
+  "originalFilename": "普通高中教科书·物理选择性必修 第一册.pdf",
+  "originalSize": 11644106,
+  "chunkSize": 5242880,
+  "chunkCount": 3,
+  "sha256": "4e9e5e29e6420035e008e2b0494c9d6ee2c64600c6d861f96bc63ec139aae79a",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "529ee0a2eda796c43b637409715e814dfeb0d45c0722ec2eebed0dff0b53b476"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "6d6515476bf8fbeab54d3a35bbacfa39d30251882878a7b810699da33e959d1c"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 1158346,
+      "sha256": "c0add8d3da6ddcab7d8bd0e80e63ae7dbe08c53e0d45bd30cd35f923607c9ca7"
+    }
+  ]
+}

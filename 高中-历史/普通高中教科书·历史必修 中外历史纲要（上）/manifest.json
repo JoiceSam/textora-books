@@ -1,0 +1,72 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·历史必修 中外历史纲要（上）",
+  "originalFilename": "普通高中教科书·历史必修 中外历史纲要（上）.pdf",
+  "originalSize": 51905169,
+  "chunkSize": 5242880,
+  "chunkCount": 10,
+  "sha256": "833dfc015a6e1db90a744a9b2e94424043149995ae796330a461a922acb18e27",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "fda7ee14ee274dff7362283e452b9f32ae6987a5e87f51c1115905b8bb1368b6"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "7cb1306a74bce0525f587dc4123efb02685a767aa9fb9f0a65b617b68fb5bdc6"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5242880,
+      "sha256": "415766dcb9c7db58a25406ebb59969b5fe0c0ba2fc5306b2cc069bbbc280eed6"
+    },
+    {
+      "index": 4,
+      "filename": "part-004.bin",
+      "size": 5242880,
+      "sha256": "e2f00e1978237381092186cf22bcba87ef84f0cd19e3d9f955890ea811d0a6d7"
+    },
+    {
+      "index": 5,
+      "filename": "part-005.bin",
+      "size": 5242880,
+      "sha256": "c05341134206fe184beee40cbcb20a4cbda441c3497b31a2a05b1ae0e4967624"
+    },
+    {
+      "index": 6,
+      "filename": "part-006.bin",
+      "size": 5242880,
+      "sha256": "b31e8c8eade959fe26f7959a4b6116892d631d6ef9fed853403958a64fcf4d4f"
+    },
+    {
+      "index": 7,
+      "filename": "part-007.bin",
+      "size": 5242880,
+      "sha256": "99a5faf9df32e8467d85d95be1e75388ffd4814af0fe714dad184a07a777c1a7"
+    },
+    {
+      "index": 8,
+      "filename": "part-008.bin",
+      "size": 5242880,
+      "sha256": "17039695c5da0cc4d1d8bbd366e01a63414d6fb368480461bec38c0089300cc8"
+    },
+    {
+      "index": 9,
+      "filename": "part-009.bin",
+      "size": 5242880,
+      "sha256": "dff226fc6471b2d8c1faa25d7981606d85427207e60e15c8108c63ccd21e3cb9"
+    },
+    {
+      "index": 10,
+      "filename": "part-010.bin",
+      "size": 4719249,
+      "sha256": "ca330e35058bd48f0cbb3db0021ca84f4fc49c5a791ed8b5ccaebefd1be2cdeb"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·数学（A版）选择性必修 第三册",
+  "originalFilename": "普通高中教科书·数学（A版）选择性必修 第三册.pdf",
+  "originalSize": 19658839,
+  "chunkSize": 5242880,
+  "chunkCount": 4,
+  "sha256": "f1c9d9863aedc86fdad2d07fcb8b89b8c9bb98c1bf2fef731a0c9a384e87d9cf",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "58a7d5ab927119ac3b18fc63ccd4ad1815c427cb145dc13f70b231ec7951ce6c"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "8498c21e560f31ed2a99657bce0e32a8fdd74fbf0ad7915d106a34ed5a1b65ba"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5242880,
+      "sha256": "54828a41ced8b3b7d2667ab6898db5aca66789c57df06697de414d2fcab19073"
+    },
+    {
+      "index": 4,
+      "filename": "part-004.bin",
+      "size": 3930199,
+      "sha256": "67cf42f423f7d5a080f3f405829580eb931f9706d03c44e329379c34912dbc86"
+    }
+  ]
+}

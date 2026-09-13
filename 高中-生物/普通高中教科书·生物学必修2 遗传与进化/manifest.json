@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·生物学必修2 遗传与进化",
+  "originalFilename": "普通高中教科书·生物学必修2 遗传与进化.pdf",
+  "originalSize": 23332265,
+  "chunkSize": 5242880,
+  "chunkCount": 5,
+  "sha256": "be085dbfa35af897050f58a1f411785840fa7f515220014acf14416cb3092dd1",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "0ecd53e9847c62b488b8418a1d228106ea21a8d2684ede7662ed4da6f79d7b04"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "19f5627b3fdef8243d0fce863c7654ac9a56c6343cecfb44ddd48dbc40d95fa3"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5242880,
+      "sha256": "7f80127c4e9464d297696204ec5343da08dd67769708ba1be8f38e0b2f19fe22"
+    },
+    {
+      "index": 4,
+      "filename": "part-004.bin",
+      "size": 5242880,
+      "sha256": "76f380aebf96d8f33b5215c56f4d3118023d156da0d25cf7ac6330587e12e20c"
+    },
+    {
+      "index": 5,
+      "filename": "part-005.bin",
+      "size": 2360745,
+      "sha256": "979fa74a06dc5494e18ab4ae4d930db184d584e3f2e8e9d797ece8b00b1ed191"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·思想政治必修1 中国特色社会主义",
+  "originalFilename": "普通高中教科书·思想政治必修1 中国特色社会主义.pdf",
+  "originalSize": 11912195,
+  "chunkSize": 5242880,
+  "chunkCount": 3,
+  "sha256": "4084bc6a74d225d3cd429870222851ef69f9b07d43e66faecd97794934710807",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "8e92fff31239de5689dd8af1fef7cca1bc41be19a22b829a341d5d4f6f870bf9"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "b3e884e26218574933b9ba55b28cecfa07516b09a6d564845e0e580010b5e104"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 1426435,
+      "sha256": "ad7e94ea7ee4a27894a6dddd81c081f448acdb834b1a1024ebba14add70fc699"
+    }
+  ]
+}

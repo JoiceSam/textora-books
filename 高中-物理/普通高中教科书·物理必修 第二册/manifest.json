@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·物理必修 第二册",
+  "originalFilename": "普通高中教科书·物理必修 第二册.pdf",
+  "originalSize": 12699093,
+  "chunkSize": 5242880,
+  "chunkCount": 3,
+  "sha256": "367414e1cffd74c8f9a4d3ceac666f675a2b005f31c558449ebbef4f70183d8e",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "dd54e3829b9beab8bf03f5865d4c1c51a889e44be506baf90c51ddf2452db05c"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "1924f39d5345303080f21c54fa3b01525497b8e017c8e55e276a4337032de469"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 2213333,
+      "sha256": "fc6d02d094dbd523ce5f864520ca4e8e5e48e3feb37663bbefc8bdeb4e2c1a09"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·生物学选择性必修1 稳态与调节",
+  "originalFilename": "普通高中教科书·生物学选择性必修1 稳态与调节.pdf",
+  "originalSize": 15993295,
+  "chunkSize": 5242880,
+  "chunkCount": 4,
+  "sha256": "e2589ed4c0a9f8d302f27a3b96ae9bdd15322e97fae23303f9d0b1c2e54808d0",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "8aac8e170c5cda77958723cb74e18daadd676f9329dc1bfc4a5fd8a342b45557"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "5460f87ac9318699896018d91bec5ba2f966a76c203c0fce12ccc0c627a40022"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5242880,
+      "sha256": "b13d09d9024e04d7a4faffdaa051d9442a56973be080ca69c47a223e742939d5"
+    },
+    {
+      "index": 4,
+      "filename": "part-004.bin",
+      "size": 264655,
+      "sha256": "219ecfaf730ec3709c950fe8ad7009c17432b6b2b80311b7fe8c3dec7b5d08f0"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·化学选择性必修1 化学反应原理",
+  "originalFilename": "普通高中教科书·化学选择性必修1 化学反应原理.pdf",
+  "originalSize": 12241298,
+  "chunkSize": 5242880,
+  "chunkCount": 3,
+  "sha256": "6fdb6f0a8b3245882fe327a8b0174fbb1c46afe2072c639c98412216e6d14c46",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "839d5fc7ec3da957ea6670502325762b56d79b213f2a04586c87d1b7e92317d5"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "1c7ffcb95454169f5bc3b63a12a15338d700253465a95ae7b5e9c1a560e86abe"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 1755538,
+      "sha256": "78b9476dc855b722389834d2eabca1cd15cb9913a643cc4cd10b384ef656ffda"
+    }
+  ]
+}

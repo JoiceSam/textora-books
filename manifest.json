@@ -1,0 +1,544 @@
+{
+  "version": 2,
+  "books": [
+    {
+      "title": "普通高中教科书·信息技术必修1 数据与计算",
+      "subject": "信息技术",
+      "type": "chunked-pdf",
+      "manifest": "高中-信息技术/普通高中教科书·信息技术必修1 数据与计算/manifest.json",
+      "size": 15602628
+    },
+    {
+      "title": "普通高中教科书·信息技术必修2 信息系统与社会",
+      "subject": "信息技术",
+      "type": "chunked-pdf",
+      "manifest": "高中-信息技术/普通高中教科书·信息技术必修2 信息系统与社会/manifest.json",
+      "size": 25779111
+    },
+    {
+      "title": "普通高中教科书·信息技术选择性必修1 数据与数据结构",
+      "subject": "信息技术",
+      "type": "chunked-pdf",
+      "manifest": "高中-信息技术/普通高中教科书·信息技术选择性必修1 数据与数据结构/manifest.json",
+      "size": 13005219
+    },
+    {
+      "title": "普通高中教科书·信息技术选择性必修2 网络基础",
+      "subject": "信息技术",
+      "type": "chunked-pdf",
+      "manifest": "高中-信息技术/普通高中教科书·信息技术选择性必修2 网络基础/manifest.json",
+      "size": 17437161
+    },
+    {
+      "title": "普通高中教科书·信息技术选择性必修3 数据管理与分析",
+      "subject": "信息技术",
+      "type": "chunked-pdf",
+      "manifest": "高中-信息技术/普通高中教科书·信息技术选择性必修3 数据管理与分析/manifest.json",
+      "size": 13628300
+    },
+    {
+      "title": "普通高中教科书·信息技术选择性必修4 人工智能初步",
+      "subject": "信息技术",
+      "type": "chunked-pdf",
+      "manifest": "高中-信息技术/普通高中教科书·信息技术选择性必修4 人工智能初步/manifest.json",
+      "size": 19310622
+    },
+    {
+      "title": "普通高中教科书·信息技术选择性必修5 三维设计与创意",
+      "subject": "信息技术",
+      "type": "chunked-pdf",
+      "manifest": "高中-信息技术/普通高中教科书·信息技术选择性必修5 三维设计与创意/manifest.json",
+      "size": 22136372
+    },
+    {
+      "title": "普通高中教科书·信息技术选择性必修6 开源硬件项目设计",
+      "subject": "信息技术",
+      "type": "chunked-pdf",
+      "manifest": "高中-信息技术/普通高中教科书·信息技术选择性必修6 开源硬件项目设计/manifest.json",
+      "size": 13016389
+    },
+    {
+      "title": "普通高中教科书·化学必修 第一册",
+      "subject": "化学",
+      "type": "chunked-pdf",
+      "manifest": "高中-化学/普通高中教科书·化学必修 第一册/manifest.json",
+      "size": 14050385
+    },
+    {
+      "title": "普通高中教科书·化学必修 第二册",
+      "subject": "化学",
+      "type": "chunked-pdf",
+      "manifest": "高中-化学/普通高中教科书·化学必修 第二册/manifest.json",
+      "size": 12793174
+    },
+    {
+      "title": "普通高中教科书·化学选择性必修1 化学反应原理",
+      "subject": "化学",
+      "type": "chunked-pdf",
+      "manifest": "高中-化学/普通高中教科书·化学选择性必修1 化学反应原理/manifest.json",
+      "size": 12241298
+    },
+    {
+      "title": "普通高中教科书·化学选择性必修2 物质结构与性质",
+      "subject": "化学",
+      "type": "chunked-pdf",
+      "manifest": "高中-化学/普通高中教科书·化学选择性必修2 物质结构与性质/manifest.json",
+      "size": 18413188
+    },
+    {
+      "title": "普通高中教科书·化学选择性必修3 有机化学基础",
+      "subject": "化学",
+      "type": "chunked-pdf",
+      "manifest": "高中-化学/普通高中教科书·化学选择性必修3 有机化学基础/manifest.json",
+      "size": 22093382
+    },
+    {
+      "title": "普通高中教科书·历史必修 中外历史纲要（上）",
+      "subject": "历史",
+      "type": "chunked-pdf",
+      "manifest": "高中-历史/普通高中教科书·历史必修 中外历史纲要（上）/manifest.json",
+      "size": 51905169
+    },
+    {
+      "title": "普通高中教科书·历史必修 中外历史纲要（下）",
+      "subject": "历史",
+      "type": "chunked-pdf",
+      "manifest": "高中-历史/普通高中教科书·历史必修 中外历史纲要（下）/manifest.json",
+      "size": 35222708
+    },
+    {
+      "title": "普通高中教科书·历史选择性必修1 国家制度与社会治理",
+      "subject": "历史",
+      "type": "chunked-pdf",
+      "manifest": "高中-历史/普通高中教科书·历史选择性必修1 国家制度与社会治理/manifest.json",
+      "size": 27615919
+    },
+    {
+      "title": "普通高中教科书·历史选择性必修2 经济与社会生活",
+      "subject": "历史",
+      "type": "chunked-pdf",
+      "manifest": "高中-历史/普通高中教科书·历史选择性必修2 经济与社会生活/manifest.json",
+      "size": 23072550
+    },
+    {
+      "title": "普通高中教科书·历史选择性必修3 文化交流与传播",
+      "subject": "历史",
+      "type": "chunked-pdf",
+      "manifest": "高中-历史/普通高中教科书·历史选择性必修3 文化交流与传播/manifest.json",
+      "size": 22356568
+    },
+    {
+      "title": "普通高中教科书·地理必修 第一册",
+      "subject": "地理",
+      "type": "chunked-pdf",
+      "manifest": "高中-地理/普通高中教科书·地理必修 第一册/manifest.json",
+      "size": 25019190
+    },
+    {
+      "title": "普通高中教科书·地理必修 第二册",
+      "subject": "地理",
+      "type": "chunked-pdf",
+      "manifest": "高中-地理/普通高中教科书·地理必修 第二册/manifest.json",
+      "size": 45273354
+    },
+    {
+      "title": "普通高中教科书·地理选择性必修1 自然地理基础",
+      "subject": "地理",
+      "type": "chunked-pdf",
+      "manifest": "高中-地理/普通高中教科书·地理选择性必修1 自然地理基础/manifest.json",
+      "size": 26572152
+    },
+    {
+      "title": "普通高中教科书·地理选择性必修2 区域发展",
+      "subject": "地理",
+      "type": "chunked-pdf",
+      "manifest": "高中-地理/普通高中教科书·地理选择性必修2 区域发展/manifest.json",
+      "size": 30791105
+    },
+    {
+      "title": "普通高中教科书·地理选择性必修3 资源、环境与国家安全",
+      "subject": "地理",
+      "type": "chunked-pdf",
+      "manifest": "高中-地理/普通高中教科书·地理选择性必修3 资源、环境与国家安全/manifest.json",
+      "size": 38774899
+    },
+    {
+      "title": "普通高中教科书·思想政治必修1 中国特色社会主义",
+      "subject": "思想政治",
+      "type": "chunked-pdf",
+      "manifest": "高中-思想政治/普通高中教科书·思想政治必修1 中国特色社会主义/manifest.json",
+      "size": 11912195
+    },
+    {
+      "title": "普通高中教科书·思想政治必修2 经济与社会",
+      "subject": "思想政治",
+      "type": "chunked-pdf",
+      "manifest": "高中-思想政治/普通高中教科书·思想政治必修2 经济与社会/manifest.json",
+      "size": 9608633
+    },
+    {
+      "title": "普通高中教科书·思想政治必修3 政治与法治",
+      "subject": "思想政治",
+      "type": "chunked-pdf",
+      "manifest": "高中-思想政治/普通高中教科书·思想政治必修3 政治与法治/manifest.json",
+      "size": 17778100
+    },
+    {
+      "title": "普通高中教科书·思想政治必修4 哲学与文化",
+      "subject": "思想政治",
+      "type": "chunked-pdf",
+      "manifest": "高中-思想政治/普通高中教科书·思想政治必修4 哲学与文化/manifest.json",
+      "size": 15261112
+    },
+    {
+      "title": "普通高中教科书·思想政治选择性必修1 当代国际政治与经济",
+      "subject": "思想政治",
+      "type": "chunked-pdf",
+      "manifest": "高中-思想政治/普通高中教科书·思想政治选择性必修1 当代国际政治与经济/manifest.json",
+      "size": 18862135
+    },
+    {
+      "title": "普通高中教科书·思想政治选择性必修2 法律与生活",
+      "subject": "思想政治",
+      "type": "chunked-pdf",
+      "manifest": "高中-思想政治/普通高中教科书·思想政治选择性必修2 法律与生活/manifest.json",
+      "size": 16969530
+    },
+    {
+      "title": "普通高中教科书·思想政治选择性必修3 逻辑与思维",
+      "subject": "思想政治",
+      "type": "chunked-pdf",
+      "manifest": "高中-思想政治/普通高中教科书·思想政治选择性必修3 逻辑与思维/manifest.json",
+      "size": 17710769
+    },
+    {
+      "title": "普通高中教科书·数学（A版）必修 第一册",
+      "subject": "数学",
+      "type": "chunked-pdf",
+      "manifest": "高中-数学/普通高中教科书·数学（A版）必修 第一册/manifest.json",
+      "size": 26138616
+    },
+    {
+      "title": "普通高中教科书·数学（A版）必修 第二册",
+      "subject": "数学",
+      "type": "chunked-pdf",
+      "manifest": "高中-数学/普通高中教科书·数学（A版）必修 第二册/manifest.json",
+      "size": 27692063
+    },
+    {
+      "title": "普通高中教科书·数学（A版）选择性必修 第一册",
+      "subject": "数学",
+      "type": "chunked-pdf",
+      "manifest": "高中-数学/普通高中教科书·数学（A版）选择性必修 第一册/manifest.json",
+      "size": 16337580
+    },
+    {
+      "title": "普通高中教科书·数学（A版）选择性必修 第三册",
+      "subject": "数学",
+      "type": "chunked-pdf",
+      "manifest": "高中-数学/普通高中教科书·数学（A版）选择性必修 第三册/manifest.json",
+      "size": 19658839
+    },
+    {
+      "title": "普通高中教科书·数学（A版）选择性必修 第二册",
+      "subject": "数学",
+      "type": "chunked-pdf",
+      "manifest": "高中-数学/普通高中教科书·数学（A版）选择性必修 第二册/manifest.json",
+      "size": 13170114
+    },
+    {
+      "title": "普通高中教科书·物理必修 第一册",
+      "subject": "物理",
+      "type": "chunked-pdf",
+      "manifest": "高中-物理/普通高中教科书·物理必修 第一册/manifest.json",
+      "size": 12944482
+    },
+    {
+      "title": "普通高中教科书·物理必修 第三册",
+      "subject": "物理",
+      "type": "chunked-pdf",
+      "manifest": "高中-物理/普通高中教科书·物理必修 第三册/manifest.json",
+      "size": 14530590
+    },
+    {
+      "title": "普通高中教科书·物理必修 第二册",
+      "subject": "物理",
+      "type": "chunked-pdf",
+      "manifest": "高中-物理/普通高中教科书·物理必修 第二册/manifest.json",
+      "size": 12699093
+    },
+    {
+      "title": "普通高中教科书·物理选择性必修 第一册",
+      "subject": "物理",
+      "type": "chunked-pdf",
+      "manifest": "高中-物理/普通高中教科书·物理选择性必修 第一册/manifest.json",
+      "size": 11644106
+    },
+    {
+      "title": "普通高中教科书·物理选择性必修 第三册",
+      "subject": "物理",
+      "type": "chunked-pdf",
+      "manifest": "高中-物理/普通高中教科书·物理选择性必修 第三册/manifest.json",
+      "size": 13401617
+    },
+    {
+      "title": "普通高中教科书·物理选择性必修 第二册",
+      "subject": "物理",
+      "type": "chunked-pdf",
+      "manifest": "高中-物理/普通高中教科书·物理选择性必修 第二册/manifest.json",
+      "size": 12047352
+    },
+    {
+      "title": "普通高中教科书·生物学必修1 分子与细胞",
+      "subject": "生物",
+      "type": "chunked-pdf",
+      "manifest": "高中-生物/普通高中教科书·生物学必修1 分子与细胞/manifest.json",
+      "size": 20917108
+    },
+    {
+      "title": "普通高中教科书·生物学必修2 遗传与进化",
+      "subject": "生物",
+      "type": "chunked-pdf",
+      "manifest": "高中-生物/普通高中教科书·生物学必修2 遗传与进化/manifest.json",
+      "size": 23332265
+    },
+    {
+      "title": "普通高中教科书·生物学选择性必修1 稳态与调节",
+      "subject": "生物",
+      "type": "chunked-pdf",
+      "manifest": "高中-生物/普通高中教科书·生物学选择性必修1 稳态与调节/manifest.json",
+      "size": 15993295
+    },
+    {
+      "title": "普通高中教科书·生物学选择性必修2 生物与环境",
+      "subject": "生物",
+      "type": "chunked-pdf",
+      "manifest": "高中-生物/普通高中教科书·生物学选择性必修2 生物与环境/manifest.json",
+      "size": 22895437
+    },
+    {
+      "title": "普通高中教科书·生物学选择性必修3 生物技术与工程",
+      "subject": "生物",
+      "type": "chunked-pdf",
+      "manifest": "高中-生物/普通高中教科书·生物学选择性必修3 生物技术与工程/manifest.json",
+      "size": 19976770
+    },
+    {
+      "title": "普通高中教科书·美术必修 美术鉴赏",
+      "subject": "美术",
+      "type": "chunked-pdf",
+      "manifest": "高中-美术/普通高中教科书·美术必修 美术鉴赏/manifest.json",
+      "size": 55784069
+    },
+    {
+      "title": "普通高中教科书·美术选择性必修1 绘画",
+      "subject": "美术",
+      "type": "chunked-pdf",
+      "manifest": "高中-美术/普通高中教科书·美术选择性必修1 绘画/manifest.json",
+      "size": 37714636
+    },
+    {
+      "title": "普通高中教科书·美术选择性必修2 中国书画",
+      "subject": "美术",
+      "type": "chunked-pdf",
+      "manifest": "高中-美术/普通高中教科书·美术选择性必修2 中国书画/manifest.json",
+      "size": 33673839
+    },
+    {
+      "title": "普通高中教科书·美术选择性必修3 雕塑",
+      "subject": "美术",
+      "type": "chunked-pdf",
+      "manifest": "高中-美术/普通高中教科书·美术选择性必修3 雕塑/manifest.json",
+      "size": 28347391
+    },
+    {
+      "title": "普通高中教科书·美术选择性必修4 设计",
+      "subject": "美术",
+      "type": "chunked-pdf",
+      "manifest": "高中-美术/普通高中教科书·美术选择性必修4 设计/manifest.json",
+      "size": 26291903
+    },
+    {
+      "title": "普通高中教科书·美术选择性必修5 工艺",
+      "subject": "美术",
+      "type": "chunked-pdf",
+      "manifest": "高中-美术/普通高中教科书·美术选择性必修5 工艺/manifest.json",
+      "size": 32018002
+    },
+    {
+      "title": "普通高中教科书·美术选择性必修6 现代媒体艺术",
+      "subject": "美术",
+      "type": "chunked-pdf",
+      "manifest": "高中-美术/普通高中教科书·美术选择性必修6 现代媒体艺术/manifest.json",
+      "size": 26306512
+    },
+    {
+      "title": "普通高中教科书·英语必修 第一册",
+      "subject": "英语",
+      "type": "chunked-pdf",
+      "manifest": "高中-英语/普通高中教科书·英语必修 第一册/manifest.json",
+      "size": 200607350
+    },
+    {
+      "title": "普通高中教科书·英语必修 第三册",
+      "subject": "英语",
+      "type": "chunked-pdf",
+      "manifest": "高中-英语/普通高中教科书·英语必修 第三册/manifest.json",
+      "size": 180150727
+    },
+    {
+      "title": "普通高中教科书·英语必修 第二册",
+      "subject": "英语",
+      "type": "chunked-pdf",
+      "manifest": "高中-英语/普通高中教科书·英语必修 第二册/manifest.json",
+      "size": 136005095
+    },
+    {
+      "title": "普通高中教科书·英语选择性必修 第一册",
+      "subject": "英语",
+      "type": "chunked-pdf",
+      "manifest": "高中-英语/普通高中教科书·英语选择性必修 第一册/manifest.json",
+      "size": 162618705
+    },
+    {
+      "title": "普通高中教科书·英语选择性必修 第三册",
+      "subject": "英语",
+      "type": "chunked-pdf",
+      "manifest": "高中-英语/普通高中教科书·英语选择性必修 第三册/manifest.json",
+      "size": 219772454
+    },
+    {
+      "title": "普通高中教科书·英语选择性必修 第二册",
+      "subject": "英语",
+      "type": "chunked-pdf",
+      "manifest": "高中-英语/普通高中教科书·英语选择性必修 第二册/manifest.json",
+      "size": 293042914
+    },
+    {
+      "title": "普通高中教科书·英语选择性必修 第四册",
+      "subject": "英语",
+      "type": "chunked-pdf",
+      "manifest": "高中-英语/普通高中教科书·英语选择性必修 第四册/manifest.json",
+      "size": 167190304
+    },
+    {
+      "title": "普通高中教科书·语文必修 上册",
+      "subject": "语文",
+      "type": "chunked-pdf",
+      "manifest": "高中-语文/普通高中教科书·语文必修 上册/manifest.json",
+      "size": 17675820
+    },
+    {
+      "title": "普通高中教科书·语文必修 下册",
+      "subject": "语文",
+      "type": "chunked-pdf",
+      "manifest": "高中-语文/普通高中教科书·语文必修 下册/manifest.json",
+      "size": 25858356
+    },
+    {
+      "title": "普通高中教科书·语文选择性必修 上册",
+      "subject": "语文",
+      "type": "chunked-pdf",
+      "manifest": "高中-语文/普通高中教科书·语文选择性必修 上册/manifest.json",
+      "size": 12785421
+    },
+    {
+      "title": "普通高中教科书·语文选择性必修 下册",
+      "subject": "语文",
+      "type": "chunked-pdf",
+      "manifest": "高中-语文/普通高中教科书·语文选择性必修 下册/manifest.json",
+      "size": 15194584
+    },
+    {
+      "title": "普通高中教科书·语文选择性必修 中册",
+      "subject": "语文",
+      "type": "chunked-pdf",
+      "manifest": "高中-语文/普通高中教科书·语文选择性必修 中册/manifest.json",
+      "size": 10506774
+    },
+    {
+      "title": "普通高中教科书·音乐必修1 音乐鉴赏",
+      "subject": "音乐",
+      "type": "chunked-pdf",
+      "manifest": "高中-音乐/普通高中教科书·音乐必修1 音乐鉴赏/manifest.json",
+      "size": 106208153
+    },
+    {
+      "title": "普通高中教科书·音乐必修2 歌唱",
+      "subject": "音乐",
+      "type": "chunked-pdf",
+      "manifest": "高中-音乐/普通高中教科书·音乐必修2 歌唱/manifest.json",
+      "size": 96917223
+    },
+    {
+      "title": "普通高中教科书·音乐必修3 演奏",
+      "subject": "音乐",
+      "type": "chunked-pdf",
+      "manifest": "高中-音乐/普通高中教科书·音乐必修3 演奏/manifest.json",
+      "size": 82119853
+    },
+    {
+      "title": "普通高中教科书·音乐必修4 音乐编创",
+      "subject": "音乐",
+      "type": "chunked-pdf",
+      "manifest": "高中-音乐/普通高中教科书·音乐必修4 音乐编创/manifest.json",
+      "size": 17816188
+    },
+    {
+      "title": "普通高中教科书·音乐必修5 音乐与舞蹈",
+      "subject": "音乐",
+      "type": "chunked-pdf",
+      "manifest": "高中-音乐/普通高中教科书·音乐必修5 音乐与舞蹈/manifest.json",
+      "size": 147565944
+    },
+    {
+      "title": "普通高中教科书·音乐必修6 音乐与戏剧",
+      "subject": "音乐",
+      "type": "chunked-pdf",
+      "manifest": "高中-音乐/普通高中教科书·音乐必修6 音乐与戏剧/manifest.json",
+      "size": 54114645
+    },
+    {
+      "title": "普通高中教科书·音乐选择性必修1 合唱",
+      "subject": "音乐",
+      "type": "chunked-pdf",
+      "manifest": "高中-音乐/普通高中教科书·音乐选择性必修1 合唱/manifest.json",
+      "size": 16343103
+    },
+    {
+      "title": "普通高中教科书·音乐选择性必修2 合奏",
+      "subject": "音乐",
+      "type": "chunked-pdf",
+      "manifest": "高中-音乐/普通高中教科书·音乐选择性必修2 合奏/manifest.json",
+      "size": 31538618
+    },
+    {
+      "title": "普通高中教科书·音乐选择性必修3 舞蹈表演",
+      "subject": "音乐",
+      "type": "chunked-pdf",
+      "manifest": "高中-音乐/普通高中教科书·音乐选择性必修3 舞蹈表演/manifest.json",
+      "size": 44760376
+    },
+    {
+      "title": "普通高中教科书·音乐选择性必修4 戏剧表演",
+      "subject": "音乐",
+      "type": "chunked-pdf",
+      "manifest": "高中-音乐/普通高中教科书·音乐选择性必修4 戏剧表演/manifest.json",
+      "size": 88474940
+    },
+    {
+      "title": "普通高中教科书·音乐选择性必修5 音乐基础理论",
+      "subject": "音乐",
+      "type": "chunked-pdf",
+      "manifest": "高中-音乐/普通高中教科书·音乐选择性必修5 音乐基础理论/manifest.json",
+      "size": 26090105
+    },
+    {
+      "title": "普通高中教科书·音乐选择性必修6 视唱练耳",
+      "subject": "音乐",
+      "type": "chunked-pdf",
+      "manifest": "高中-音乐/普通高中教科书·音乐选择性必修6 视唱练耳/manifest.json",
+      "size": 20205932
+    }
+  ]
+}

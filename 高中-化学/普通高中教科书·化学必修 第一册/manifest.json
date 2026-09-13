@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·化学必修 第一册",
+  "originalFilename": "普通高中教科书·化学必修 第一册.pdf",
+  "originalSize": 14050385,
+  "chunkSize": 5242880,
+  "chunkCount": 3,
+  "sha256": "26697bcbfb058051aefe2533789b81312759a28f3c0e6e507295ac5e2fddaf8b",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "1caee20bbc1f40d8192c55df4a87860d841a8ab57dfed5a8521ccc2287e872c9"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "43a10797fee1a6ef610c610d75f98c636325f67c250b9137cea0b378b6805227"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 3564625,
+      "sha256": "cda16304f81c881406b90f388aba242a4031ade2a1ff832cdceb3addda04ee8c"
+    }
+  ]
+}

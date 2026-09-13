@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·语文必修 上册",
+  "originalFilename": "普通高中教科书·语文必修 上册.pdf",
+  "originalSize": 17675820,
+  "chunkSize": 5242880,
+  "chunkCount": 4,
+  "sha256": "e635902fe13148feda47872803ea3dc298509641aa3f342ba5598a1104010fe7",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "4352d9f18faa1aa03b3b5dbe00bf9147464b370af5adb48bf0721072e48e9ded"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "6ee3a0bdecf723c07d99f90d53a36fdeb50fdfcfcf72b108248e86c9482fb87f"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5242880,
+      "sha256": "b0bfcd203ae6882e8eb765188961f39d5e7ee15450c8d413a1df5c3a1d927d32"
+    },
+    {
+      "index": 4,
+      "filename": "part-004.bin",
+      "size": 1947180,
+      "sha256": "9a1a0bd228e641cb7f26dc3c69447de2fe97c81beb5d4d11181acdf61d1056d2"
+    }
+  ]
+}

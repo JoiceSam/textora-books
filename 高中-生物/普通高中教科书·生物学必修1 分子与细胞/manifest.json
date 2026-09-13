@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·生物学必修1 分子与细胞",
+  "originalFilename": "普通高中教科书·生物学必修1 分子与细胞.pdf",
+  "originalSize": 20917108,
+  "chunkSize": 5242880,
+  "chunkCount": 4,
+  "sha256": "b02fac36b03bce0898410915fb4abecb3f62f287ee9aafb776f7b758b06806c6",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "1a5a52e81414fafa89b4c66cc38e9dfa9496ce0f601b17b67bf218f0186afec5"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "629e0fae6cd6a7f84e2af6aa046fecea649b2f28c96e0ef5ec363196b138fae6"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5242880,
+      "sha256": "6fca2deeddb1c003a5b2d52f5ac08285728f607ab09910ea8edb3bfe78a77cd4"
+    },
+    {
+      "index": 4,
+      "filename": "part-004.bin",
+      "size": 5188468,
+      "sha256": "09574e72c0abb849cfbef906d4ec2455d5fd39d92a28fae83e566fbda855ab90"
+    }
+  ]
+}

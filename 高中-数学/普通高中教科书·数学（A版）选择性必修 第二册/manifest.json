@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·数学（A版）选择性必修 第二册",
+  "originalFilename": "普通高中教科书·数学（A版）选择性必修 第二册.pdf",
+  "originalSize": 13170114,
+  "chunkSize": 5242880,
+  "chunkCount": 3,
+  "sha256": "8e6a392c4fe703c327344b1c5237a895aa5a6eb3f24e79c59833734740095453",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "bc785022181b63514be25e3df9536a70842ca4d31470b07f9f65356cf9712d6f"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "5fa030f91778f5a1dbafeed21627c1487df26ca8cea681817668101c3969006c"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 2684354,
+      "sha256": "a7f36ce66cc80e6acbf7214d66c15df3c524c0490dddc5fee99ddaab8779342a"
+    }
+  ]
+}

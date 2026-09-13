@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·思想政治选择性必修1 当代国际政治与经济",
+  "originalFilename": "普通高中教科书·思想政治选择性必修1 当代国际政治与经济.pdf",
+  "originalSize": 18862135,
+  "chunkSize": 5242880,
+  "chunkCount": 4,
+  "sha256": "dd9bdd61e173f1f43c6267e2c6987c7839da6b317368390142c10d3f8888469e",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "6513f416b120639b91c1fc25e387b91bf41b7ed2dc71f0d6dba75859fc3e183c"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "86b6e4c0d330a5515da3f3dfa63426e3c52eb2643157d739848d717859f863af"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5242880,
+      "sha256": "19f67de768e4e481a3ad6d7b53fef571c9baf722461379619b18ae55829c9dde"
+    },
+    {
+      "index": 4,
+      "filename": "part-004.bin",
+      "size": 3133495,
+      "sha256": "d64af0ba3a33acbe2c53ac1feb9cb4e1a36fce0fc92b5c6aaaa3b1761b1223a6"
+    }
+  ]
+}
