@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·音乐选择性必修5 音乐基础理论",
+  "originalFilename": "普通高中教科书·音乐选择性必修5 音乐基础理论.pdf",
+  "originalSize": 26090105,
+  "chunkSize": 5242880,
+  "chunkCount": 5,
+  "sha256": "8c582ae0883903ccbc0c23bbc75ed6824613b505d70ce94525320deed28cdde8",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "8d68a3d213ad4c778a6111bed2776985c7ad99fdb9999d1331e9e350f408d310"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "bb5c97db62eee293faa348006faf63dd6993b8a75c1c9fd42b7edbe3f075afc8"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5242880,
+      "sha256": "caea3557aafc448f9fde204edadc939a20ce0aa27b920689fb2c76ef7f6a855a"
+    },
+    {
+      "index": 4,
+      "filename": "part-004.bin",
+      "size": 5242880,
+      "sha256": "01192b2c267c09cdce5d3d70b072bbe52f2aa1fef8cd91d85c97db1dce705917"
+    },
+    {
+      "index": 5,
+      "filename": "part-005.bin",
+      "size": 5118585,
+      "sha256": "d7953625e80aff3c281ea4eabcee80f95c81260be284e7e2df51fd1fd61a0afa"
+    }
+  ]
+}

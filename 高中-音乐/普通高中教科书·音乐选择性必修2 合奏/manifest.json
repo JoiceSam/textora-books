@@ -1,0 +1,54 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·音乐选择性必修2 合奏",
+  "originalFilename": "普通高中教科书·音乐选择性必修2 合奏.pdf",
+  "originalSize": 31538618,
+  "chunkSize": 5242880,
+  "chunkCount": 7,
+  "sha256": "ddd33da358bcc1f8ee95fed9d18ec505538d87d41349f5cf2b4d133d86003909",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "628e28775c60e1b59c044e5cc341d17ccc965cd4e569e5018c630c07f4177cce"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "3a50ab4d81b951c431d284d423b6f727cddac2cd9aeec8f1730a578cf76cd2c7"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5242880,
+      "sha256": "985c3c0fe7ea5add361d5c91e08e462be1476f622809f101dac7334e9a3e3894"
+    },
+    {
+      "index": 4,
+      "filename": "part-004.bin",
+      "size": 5242880,
+      "sha256": "a8ad7f38e2b3b9a9f79e5c0dcc2a5a34f85be9a06fa19cbef6c7d181407e5ec3"
+    },
+    {
+      "index": 5,
+      "filename": "part-005.bin",
+      "size": 5242880,
+      "sha256": "d4ac06d937424e97e8b889de8d2c05c8eff3de60cd51648c5172d1e80dbc2f10"
+    },
+    {
+      "index": 6,
+      "filename": "part-006.bin",
+      "size": 5242880,
+      "sha256": "4cb214bd71ff956df687f3d217ea1bade8a482a36adc7a306b4ea8cfd24f1875"
+    },
+    {
+      "index": 7,
+      "filename": "part-007.bin",
+      "size": 81338,
+      "sha256": "9845de36167aa4d350a2f7eb676367ea4b8b3810ff593c1d172934b7573b1d07"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·美术选择性必修4 设计",
+  "originalFilename": "普通高中教科书·美术选择性必修4 设计.pdf",
+  "originalSize": 26291903,
+  "chunkSize": 5242880,
+  "chunkCount": 6,
+  "sha256": "9e101b564ec74d66cd809d15c822da2b579f46558484f2d9671e21ccb56911a7",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "2de0a6ffde2d56fecb13dfde4e2ed764647462f24ed53fda4efbfd1ff1908e32"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "3cf81b71ee2442e9a441acec730506955bd79a2ab6d5977b595d0b8e864a0ff9"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5242880,
+      "sha256": "5e47b9f6eecfd97dd9ca25fd116404fbd4fbbf4f1009977e662cbd07f77359f3"
+    },
+    {
+      "index": 4,
+      "filename": "part-004.bin",
+      "size": 5242880,
+      "sha256": "26099b800752333ffe024cd56599daecd6a5bbe1d6fdb2b2d66835fc0b92936f"
+    },
+    {
+      "index": 5,
+      "filename": "part-005.bin",
+      "size": 5242880,
+      "sha256": "9d1ebd0fc26ea00061dc9e712657eff8b569471a9ca2c72e53bd9c43a37525f9"
+    },
+    {
+      "index": 6,
+      "filename": "part-006.bin",
+      "size": 77503,
+      "sha256": "c1e0f29c3e3b82c333db0e3034b21215676e898ed9b8f202df959574d777baf9"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·美术选择性必修5 工艺",
+  "originalFilename": "普通高中教科书·美术选择性必修5 工艺.pdf",
+  "originalSize": 32018002,
+  "chunkSize": 5242880,
+  "chunkCount": 7,
+  "sha256": "923b6f13754ca3977a10c02b99a0196443c95ed9f2d8a8e6a0d2e99c001901e8",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "67ba8f51cadd3db2daea5d9435fd6fbfa82b83f2bc117d5d0b9e4be7997e3175"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "a8efdbe6f0ceee395bea046b311ae195d1ee666d3b342104fcc3241cce09798f"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5242880,
+      "sha256": "6383de15c670694a690730b6f02b4df160adbd98383a845ddab1449265b88d80"
+    },
+    {
+      "index": 4,
+      "filename": "part-004.bin",
+      "size": 5242880,
+      "sha256": "8943f9eaa365773d1cd27b19556de2951b80d6a5bc74ce0181097f8f014564a2"
+    },
+    {
+      "index": 5,
+      "filename": "part-005.bin",
+      "size": 5242880,
+      "sha256": "af392299dd14ef66d15f3a1ca6859a544540484bce2dca57fb0aa95677d2b575"
+    },
+    {
+      "index": 6,
+      "filename": "part-006.bin",
+      "size": 5242880,
+      "sha256": "2c4efd87b9c04af9353b34d7e966ed304fef9c4adf3d740d7d92f4bcfe89fd21"
+    },
+    {
+      "index": 7,
+      "filename": "part-007.bin",
+      "size": 560722,
+      "sha256": "694e25db4f048d0cf643e0bfab7997f2fc1cc4c31a252bc2da6e68ecf48d451b"
+    }
+  ]
+}

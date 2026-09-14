@@ -1,0 +1,78 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·美术必修 美术鉴赏",
+  "originalFilename": "普通高中教科书·美术必修 美术鉴赏.pdf",
+  "originalSize": 55784069,
+  "chunkSize": 5242880,
+  "chunkCount": 11,
+  "sha256": "746f6177d6a7ccd069d81b17d6d92e35fa7ce72eadb4cea54cd45dc0f4022a08",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "9fbc5c060d76f2f7dc28634cb572b92b3aaf5e91c815ebd66b7bea1246cf58de"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "7c9a241b12c5b97195919931f302318c9166ad917d364278b1c14a489d8e0302"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5242880,
+      "sha256": "e98ae1bdafea2d301fa8aa93c7f2688525b2a804e5f2f7fe59478b806f8239a4"
+    },
+    {
+      "index": 4,
+      "filename": "part-004.bin",
+      "size": 5242880,
+      "sha256": "7c837013f89a9940906cb6c01e8c08e766d12f14018f24493df1769d79cd16d4"
+    },
+    {
+      "index": 5,
+      "filename": "part-005.bin",
+      "size": 5242880,
+      "sha256": "0d29f30a910e2d46513dd54f5dc620d4de1c4516d7426871fe35f1abb3f4eda7"
+    },
+    {
+      "index": 6,
+      "filename": "part-006.bin",
+      "size": 5242880,
+      "sha256": "986d102fca84680120e8348ff6ace5104c555d9c8bc9dd777bfca1a5ae3f0416"
+    },
+    {
+      "index": 7,
+      "filename": "part-007.bin",
+      "size": 5242880,
+      "sha256": "7909050096b622101f5cbf11bae1021dcbb97465b10d438032b5715cc5812400"
+    },
+    {
+      "index": 8,
+      "filename": "part-008.bin",
+      "size": 5242880,
+      "sha256": "209160ba5c7da07a5f5ca7d257ede4245b021e2b6e19a1c08effb9ed0755466f"
+    },
+    {
+      "index": 9,
+      "filename": "part-009.bin",
+      "size": 5242880,
+      "sha256": "736882a83bf038962a052c029eebb1d6e7164d8264c11d06649966f24f2b4a8f"
+    },
+    {
+      "index": 10,
+      "filename": "part-010.bin",
+      "size": 5242880,
+      "sha256": "89329ac70e55d6912a47c26a8b8f0c21b54d8854c9232201f6001629d24af935"
+    },
+    {
+      "index": 11,
+      "filename": "part-011.bin",
+      "size": 3355269,
+      "sha256": "5d79700451ffe442c06e09158c4afa230caafe65965819ff88a7d56aeb2c9a91"
+    }
+  ]
+}

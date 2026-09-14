@@ -1,0 +1,60 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·美术选择性必修1 绘画",
+  "originalFilename": "普通高中教科书·美术选择性必修1 绘画.pdf",
+  "originalSize": 37714636,
+  "chunkSize": 5242880,
+  "chunkCount": 8,
+  "sha256": "6e5ba0c3538fdb534350cb85e77fbc9e02b6c3b8df43b70aa770ce4158da12bb",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "3af35f3c359bfdde904aa74e463cfd34922a849998e891ea7c0f7994486508ec"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "45ba1687038dff70a3d77c982828f80a4456f86940769dc2d2cfe6f09b0df021"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5242880,
+      "sha256": "ff8fd3bb7c0c47bc7d16b2c6311e34594ae2e2e7b7f70279c1348f86c6109470"
+    },
+    {
+      "index": 4,
+      "filename": "part-004.bin",
+      "size": 5242880,
+      "sha256": "c66fd3e8a2723ba5f624ae706266807d01ea0d074cc40367f87adbb4cfd7b8bc"
+    },
+    {
+      "index": 5,
+      "filename": "part-005.bin",
+      "size": 5242880,
+      "sha256": "90b2aab709f3783f37da670014045ac8a44fc4bf1d232808b4344cb785a2ea7c"
+    },
+    {
+      "index": 6,
+      "filename": "part-006.bin",
+      "size": 5242880,
+      "sha256": "98746726260754023d83ee6ee3ddd861c1172e1e81a4a92bc0f32a1e49dcb4de"
+    },
+    {
+      "index": 7,
+      "filename": "part-007.bin",
+      "size": 5242880,
+      "sha256": "eadd64308183d0cef7b4509e6fc072adf78942caadbd496d2b00c443e9808bee"
+    },
+    {
+      "index": 8,
+      "filename": "part-008.bin",
+      "size": 1014476,
+      "sha256": "a338e8c813247249c6857f14b2385006969ece56a9daaabcdc1a9338f6ce7170"
+    }
+  ]
+}

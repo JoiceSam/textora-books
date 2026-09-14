@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·信息技术选择性必修4 人工智能初步",
+  "originalFilename": "普通高中教科书·信息技术选择性必修4 人工智能初步.pdf",
+  "originalSize": 19310622,
+  "chunkSize": 5242880,
+  "chunkCount": 4,
+  "sha256": "98649844d276096b11019b7e2f0638638bc79bfd99890b881da7e5bc2583d0d0",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "b8f78fe7aea2789af140901fb3990be10bd9069b32aa1fd4722aed149c7c79b6"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "c838274fb1289fb1eb6f62530906dd9c7941f3ad20c4c4de88c36cf143838ac1"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5242880,
+      "sha256": "b5bc6499fb414083102bea69e768d0548c2c94d754c75b5edd42bcb281abccda"
+    },
+    {
+      "index": 4,
+      "filename": "part-004.bin",
+      "size": 3581982,
+      "sha256": "c81dd9db905773989708e576e3838738133c867105da668b24611f656d6f2e64"
+    }
+  ]
+}

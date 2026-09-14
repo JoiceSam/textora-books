@@ -1,0 +1,108 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·音乐必修3 演奏",
+  "originalFilename": "普通高中教科书·音乐必修3 演奏.pdf",
+  "originalSize": 82119853,
+  "chunkSize": 5242880,
+  "chunkCount": 16,
+  "sha256": "8ee1b26a149d96bdeab633222f2adaa3d44990c4d1fbb7b515dd6a67bd809309",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "7db53da3b7b3acfde8128c2542772cd508262b699c920fa8019a883b8df2cd65"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "080fd443dfc7b017592928ed966eb190aef4c7b1acf93e109a1109fdd4cd8c4d"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5242880,
+      "sha256": "54986881717f9ac620735e7a3000925f0af52d901718ef32f4c6b978b1987119"
+    },
+    {
+      "index": 4,
+      "filename": "part-004.bin",
+      "size": 5242880,
+      "sha256": "a100bc48fa3b126e8fca0d29ae0ca18a6f0c3801bbf3dad9783291181f764057"
+    },
+    {
+      "index": 5,
+      "filename": "part-005.bin",
+      "size": 5242880,
+      "sha256": "038a8a3236458ca7e9a008a776bfab8a4c43c12aaca58285fc5483be605840b4"
+    },
+    {
+      "index": 6,
+      "filename": "part-006.bin",
+      "size": 5242880,
+      "sha256": "b4c5357682ed5afb1ce4288da926cfab0c1785a926200d2e8420be0b9186b703"
+    },
+    {
+      "index": 7,
+      "filename": "part-007.bin",
+      "size": 5242880,
+      "sha256": "918b2c307639db1e5e61645999a55517e830d8d12d625168a4e5988f53323196"
+    },
+    {
+      "index": 8,
+      "filename": "part-008.bin",
+      "size": 5242880,
+      "sha256": "1217b7d91e9c1ed02e83466d1c4857cbd23878b8a5d6874b7ab10b07df0db143"
+    },
+    {
+      "index": 9,
+      "filename": "part-009.bin",
+      "size": 5242880,
+      "sha256": "5bb5f89336d8aa74e6e4ad6c630c0d522691a08392b8b0184fe5bcccdedf4dcd"
+    },
+    {
+      "index": 10,
+      "filename": "part-010.bin",
+      "size": 5242880,
+      "sha256": "79e01c4a8e9fad2314cef44619c180dbc0de7a3143eed7f6a85c3aa7c6cf4c13"
+    },
+    {
+      "index": 11,
+      "filename": "part-011.bin",
+      "size": 5242880,
+      "sha256": "51df01b84820c3b4b726e0804c4a305d72f83eb3678a61ca21d36bd926366c5e"
+    },
+    {
+      "index": 12,
+      "filename": "part-012.bin",
+      "size": 5242880,
+      "sha256": "41a11374ad56e2b6bdf52e7aebd5ad9069e0fb75378b71b687652d04706f8005"
+    },
+    {
+      "index": 13,
+      "filename": "part-013.bin",
+      "size": 5242880,
+      "sha256": "414086244804ecb628a4adbfdb43c3265511e3e951f038c5f8120b4f454cda77"
+    },
+    {
+      "index": 14,
+      "filename": "part-014.bin",
+      "size": 5242880,
+      "sha256": "b0a136e85ff62795669f913052eba228db8b3e8f600bc8489b9195aafa89c89a"
+    },
+    {
+      "index": 15,
+      "filename": "part-015.bin",
+      "size": 5242880,
+      "sha256": "216ad93cec824c519f8e9824840e7430b319c1fb98ee5ae749513e69dd73aad4"
+    },
+    {
+      "index": 16,
+      "filename": "part-016.bin",
+      "size": 3476653,
+      "sha256": "ddb8723df5d102315f96649e39c317b7a4f011fedcd0f2fc96ca1960ece91d71"
+    }
+  ]
+}

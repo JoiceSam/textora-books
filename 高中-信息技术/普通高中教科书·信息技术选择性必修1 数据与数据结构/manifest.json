@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·信息技术选择性必修1 数据与数据结构",
+  "originalFilename": "普通高中教科书·信息技术选择性必修1 数据与数据结构.pdf",
+  "originalSize": 13005219,
+  "chunkSize": 5242880,
+  "chunkCount": 3,
+  "sha256": "4da97302091c77bb9bde73e4de550c0afeec9e1a3d687eb35b4c9b5c433caa38",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "e78434b3c3134c64fe1af1ad3aa67c7ea7583a251cac373fc0d767ce29628e4c"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "8d9b3724b71f4b528dd868ee53035c36746d5da4823a97069305c11c13f6b57e"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 2519459,
+      "sha256": "8d4c7b9fe4d19f2c95d91252e0e928420012302dde68517d23aa70f9352da0e4"
+    }
+  ]
+}

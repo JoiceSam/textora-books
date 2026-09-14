@@ -1,0 +1,78 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·音乐必修6 音乐与戏剧",
+  "originalFilename": "普通高中教科书·音乐必修6 音乐与戏剧.pdf",
+  "originalSize": 54114645,
+  "chunkSize": 5242880,
+  "chunkCount": 11,
+  "sha256": "7329f6677f1152add316617e320e5e3cce81887feec3efb06f83935eb4f39841",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "17950ef384d4ce1d06c626c72a4eb75fee92ea520b89d3550c2db909c1a3bbae"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "78728d092dcde9022c1b8a32af13606c15f0ce325919f00247acffb3d38386e6"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5242880,
+      "sha256": "35ae30ec0e679b0dbc7ab0265f57b3d0144a52727c677d82ea95353aced34ad4"
+    },
+    {
+      "index": 4,
+      "filename": "part-004.bin",
+      "size": 5242880,
+      "sha256": "4bcfd0ff6213d63642035eea29b92af720306884ce8c6ed8f5c178f692d223c0"
+    },
+    {
+      "index": 5,
+      "filename": "part-005.bin",
+      "size": 5242880,
+      "sha256": "0555b1347cd23827320e4b089c513a3d08ff845ba8fe3df770487820f4d29fe2"
+    },
+    {
+      "index": 6,
+      "filename": "part-006.bin",
+      "size": 5242880,
+      "sha256": "ad7f839fd38ffa4ade8db6e64ed8e8e9855f11b3a8d7e86dbfba6f9c0453ddc1"
+    },
+    {
+      "index": 7,
+      "filename": "part-007.bin",
+      "size": 5242880,
+      "sha256": "94b1ea8a87401f1f7314640854957a23223e55bbdb96f6a3dc992c938b9da00a"
+    },
+    {
+      "index": 8,
+      "filename": "part-008.bin",
+      "size": 5242880,
+      "sha256": "0d4271f80f7e915da2608dac74caa9b0e20c2f64909cb08d18ac4f5ffe1acc74"
+    },
+    {
+      "index": 9,
+      "filename": "part-009.bin",
+      "size": 5242880,
+      "sha256": "c581efb293b3734ad6b98cd3ef7844e6ba720c6f809a8e49943974b1cf7de5c6"
+    },
+    {
+      "index": 10,
+      "filename": "part-010.bin",
+      "size": 5242880,
+      "sha256": "1fb8f323bc4842c584541211cd12a698d80b8000cf0811df23f3ec528032aa3b"
+    },
+    {
+      "index": 11,
+      "filename": "part-011.bin",
+      "size": 1685845,
+      "sha256": "c477531a172aa2bf940eb028a906ec294f2104b41afef3c31e3883acf02d693a"
+    }
+  ]
+}
