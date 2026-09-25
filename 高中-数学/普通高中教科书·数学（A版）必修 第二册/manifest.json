@@ -44,5 +44,15 @@
       "size": 1477663,
       "sha256": "9e6363c91ab133fdc0d850e7c91e261194f4efe3ebe539b5ef118d933006b8a1"
     }
-  ]
+  ],
+  "pageMapping": {
+    "version": 1,
+    "segments": [
+      {
+        "printedStart": 1,
+        "printedEnd": 270,
+        "pdfStart": 8
+      }
+    ]
+  }
 }

@@ -1,0 +1,60 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·地理选择性必修3 资源、环境与国家安全",
+  "originalFilename": "普通高中教科书·地理选择性必修3 资源、环境与国家安全.pdf",
+  "originalSize": 38774899,
+  "chunkSize": 5242880,
+  "chunkCount": 8,
+  "sha256": "e787b9896d918e4ef9c3318769a37bbe76d3a211c8ce4a906b0960bc104aa2c4",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "102a02f46b1b6e37af4112ed386c86c0dccdb8dedc754903e4c3fad707398f68"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "dff6b944838e3f9e3d66dc2d760c60d8d70a9800aa86d8856773cada14d038ac"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5242880,
+      "sha256": "906dd7c753e03e4b6c97b42c08f1a28168519453885a4ababf6b5111c426b034"
+    },
+    {
+      "index": 4,
+      "filename": "part-004.bin",
+      "size": 5242880,
+      "sha256": "d817ebe93d38260369d7283d0a85ff02717473062340ee14f5878e49f9afa079"
+    },
+    {
+      "index": 5,
+      "filename": "part-005.bin",
+      "size": 5242880,
+      "sha256": "17313512bdf71cd8d392659234e22c53945bc660f62660726435828a706cc377"
+    },
+    {
+      "index": 6,
+      "filename": "part-006.bin",
+      "size": 5242880,
+      "sha256": "8b91242e84bd481cdaf12973e97b3e1188dafb8b080dc769b6d2fb06219f45b3"
+    },
+    {
+      "index": 7,
+      "filename": "part-007.bin",
+      "size": 5242880,
+      "sha256": "3364568a644d1290b7ec11a47ef432a4b90b9380213a494d4bd15906c4acf10a"
+    },
+    {
+      "index": 8,
+      "filename": "part-008.bin",
+      "size": 2074739,
+      "sha256": "0d346ed9e97b4d44d9952a6e1f3810730ff32ed72550c1237baf7f81c2548e72"
+    }
+  ]
+}

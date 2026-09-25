@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·信息技术选择性必修6 开源硬件项目设计",
+  "originalFilename": "普通高中教科书·信息技术选择性必修6 开源硬件项目设计.pdf",
+  "originalSize": 13016389,
+  "chunkSize": 5242880,
+  "chunkCount": 3,
+  "sha256": "dd01893da822d492e7391b3595eda517ef4f093b6a49581d6bd17a3342afa48a",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "4e8f36e51c210d511782e2727065788df24978013b464cfc5ac681310b5ca1c0"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "d15b11fbeb6f7d4dee71f303ced92847c50b05dda7e50654be0a96292a78ac82"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 2530629,
+      "sha256": "0aa6310b16868150c6539141cbc8ab85629393a272698935f1252ec99028b02d"
+    }
+  ]
+}

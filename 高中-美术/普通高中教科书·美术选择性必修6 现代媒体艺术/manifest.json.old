@@ -1,0 +1,48 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·美术选择性必修6 现代媒体艺术",
+  "originalFilename": "普通高中教科书·美术选择性必修6 现代媒体艺术.pdf",
+  "originalSize": 26306512,
+  "chunkSize": 5242880,
+  "chunkCount": 6,
+  "sha256": "9e9052f8e4905d9f78f87d11afc07da33ba614b0d0c9cb6e70b2bd7c3b844150",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "89d78772e11296b4eab432f9c373327c303ca9a2dc2bac03e5734ff48696ea64"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "9dd95906cc361cb1f59d6e89bfa3557d0e1a430b7d63c6be5b74f442f3ed9163"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5242880,
+      "sha256": "ef7efd57a866318d654b82adb5f6b45de5105302a8c2caaf55e5709ec5a63cd3"
+    },
+    {
+      "index": 4,
+      "filename": "part-004.bin",
+      "size": 5242880,
+      "sha256": "ac10248fefcd333ebadd6e5b833dbb8873a21efff783f13325a56b1699721f5c"
+    },
+    {
+      "index": 5,
+      "filename": "part-005.bin",
+      "size": 5242880,
+      "sha256": "5284f5d994923a2e932a946b986f8ad8bb5d6fb5c75de2943da0b62e42546c04"
+    },
+    {
+      "index": 6,
+      "filename": "part-006.bin",
+      "size": 92112,
+      "sha256": "7d8907da091fadd9a4584f27da1cd0d43dd5de5614c625ea9d653ffdbe5ca662"
+    }
+  ]
+}

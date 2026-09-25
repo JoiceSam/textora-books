@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·语文选择性必修 上册",
+  "originalFilename": "普通高中教科书·语文选择性必修 上册.pdf",
+  "originalSize": 12785421,
+  "chunkSize": 5242880,
+  "chunkCount": 3,
+  "sha256": "730bc6895463d46223204d6d54027530a75e33d541634c7d4daf0fa8a5e90e2c",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "14d0b05e094e45b54a037f23a98da78ab951840a605e0c69046c43e2c4917a7a"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "e3fc49d7c266affb36621c04f8f6f85005bb69640eefdc98b8b5fe3c31a7a18a"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 2299661,
+      "sha256": "7859a677817b645a9523017e650936de627715c051c439cf71f6e0cf41609c60"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·音乐选择性必修6 视唱练耳",
+  "originalFilename": "普通高中教科书·音乐选择性必修6 视唱练耳.pdf",
+  "originalSize": 20205932,
+  "chunkSize": 5242880,
+  "chunkCount": 4,
+  "sha256": "f46a76e8e4a933f5b18939aa395fec7591883d0b032fa6d6fc3d64d2a9d80181",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "6f0708a63fd71f3e49cb780ae0e67704c9d7ea74f6b48d385850792e0bf9ea0c"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "500a49a5ff50b726e50f41518f0e2dd2e428751c28713190c056f55f9330000e"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5242880,
+      "sha256": "0ee5d7844fa8140e04d793bcd4468f0cbcfd3024f958801cc8a436cb3e5cb753"
+    },
+    {
+      "index": 4,
+      "filename": "part-004.bin",
+      "size": 4477292,
+      "sha256": "365a8577f9969d40fc84839dc7c0c8ffcd98cfc40c008e2a6c756631b0e4bd33"
+    }
+  ]
+}

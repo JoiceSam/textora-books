@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·思想政治必修2 经济与社会",
+  "originalFilename": "普通高中教科书·思想政治必修2 经济与社会.pdf",
+  "originalSize": 9608633,
+  "chunkSize": 5242880,
+  "chunkCount": 2,
+  "sha256": "e1f10774c5150fef4b5f5b07652d05cc3003980c68adc824bf0149a93a0740b7",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "e5234291054d83ba4ff8cc8de01f98a3a8361ba01e9c829c26637d6c76b2d1f2"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 4365753,
+      "sha256": "b9a92bd8848f05bb9b41b3593909fceb6d7ce14f2d34aea284cad711edf4fc13"
+    }
+  ]
+}

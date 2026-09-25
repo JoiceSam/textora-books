@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·历史选择性必修2 经济与社会生活",
+  "originalFilename": "普通高中教科书·历史选择性必修2 经济与社会生活.pdf",
+  "originalSize": 23072550,
+  "chunkSize": 5242880,
+  "chunkCount": 5,
+  "sha256": "4b50348c8d1f7554944a1a876edc296b53a39981e1cbff8aae718c75a169f509",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "2a32a27477d3fb3102f336dd953a65d2324ad01c6be68f3c1268f4c2c1bf4d50"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "a7ea23f620bc5e219100ab6973c0ca5c5baaa34e5a467c108a3926808d36b897"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5242880,
+      "sha256": "37802f1f5cbaad057f793bf04e2c1e1c88d1230dd5e48223cd664f45dcf318ab"
+    },
+    {
+      "index": 4,
+      "filename": "part-004.bin",
+      "size": 5242880,
+      "sha256": "a7741b11e86f11baa4d546c11b7c797f3804aae8836ede7739ce381ce97030fe"
+    },
+    {
+      "index": 5,
+      "filename": "part-005.bin",
+      "size": 2101030,
+      "sha256": "8ab36ab2a6fc0b62129b41fdd43e2f1d1acb13f46cd3b9ebde51d55d3bdfa934"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·美术选择性必修3 雕塑",
+  "originalFilename": "普通高中教科书·美术选择性必修3 雕塑.pdf",
+  "originalSize": 28347391,
+  "chunkSize": 5242880,
+  "chunkCount": 6,
+  "sha256": "2df5dff829d4271a804799f50358b226caf198de9103e93010f7fcba6eab9411",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "12400f503e56f8a892c3d184604d45c65b56c91b41bbd10e2180d3e03cee74ed"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "bf423a79c54443b4c0d48a67cb58f9a17fff0211faac324a148ab9c3a7f66945"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5242880,
+      "sha256": "5f1dfe694b58d873cb717d846785aed4e4405c6d76eb4dc3c208d8d47d3d4550"
+    },
+    {
+      "index": 4,
+      "filename": "part-004.bin",
+      "size": 5242880,
+      "sha256": "c5124f838e6c0f9d5718520c6a737824e2752e75f0b424c2d2f1257efbb8aa71"
+    },
+    {
+      "index": 5,
+      "filename": "part-005.bin",
+      "size": 5242880,
+      "sha256": "0b547edc923ce8e82d3e0316e130f7a312c2bd249a485f07e8206ba2b569d811"
+    },
+    {
+      "index": 6,
+      "filename": "part-006.bin",
+      "size": 2132991,
+      "sha256": "883d4d0bc9b14e7faade4a3064392d65ebd4c53691a2fe1d0c62aec20c56c05d"
+    }
+  ]
+}

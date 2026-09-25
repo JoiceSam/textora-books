@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·物理选择性必修 第二册",
+  "originalFilename": "普通高中教科书·物理选择性必修 第二册.pdf",
+  "originalSize": 12047352,
+  "chunkSize": 5242880,
+  "chunkCount": 3,
+  "sha256": "e134c14fbfe6d4242a6dcb8677d43bd889fe6a6d48b3dc7358ed911f86033bed",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "35634598594f1613a960faa4775c84fa932a21f2d111f763f8c22ef771d999a7"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "48aae164b619afac71caef749a318c1fba911b1cdaa4892bedb5cc62bd536478"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 1561592,
+      "sha256": "e525bf894d6eca8c6accb8c16e9f01ccd4a57199a10a9a62991739489b1b195b"
+    }
+  ]
+}

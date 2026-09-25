@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·生物学选择性必修3 生物技术与工程",
+  "originalFilename": "普通高中教科书·生物学选择性必修3 生物技术与工程.pdf",
+  "originalSize": 19976770,
+  "chunkSize": 5242880,
+  "chunkCount": 4,
+  "sha256": "487485b1aceb316873b73ab0c581fd70c92f9bd287560a8e0352700bf037e60a",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "339a316a15c2d1cf6861f1fa05337745b7eaf7f2235c4a1de100368144467184"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "9c21da3d3154d0d5f61dce45edbb3de35eaced477a62366e57db5b497c28e55e"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5242880,
+      "sha256": "dcf723005c4fdd2ff637745422c607433369bfd65cb255b3ab532b54bea2001a"
+    },
+    {
+      "index": 4,
+      "filename": "part-004.bin",
+      "size": 4248130,
+      "sha256": "4085d521bb968a1f3b2c15172d4743024da3fe0f77564ad87107a464c185c48d"
+    }
+  ]
+}

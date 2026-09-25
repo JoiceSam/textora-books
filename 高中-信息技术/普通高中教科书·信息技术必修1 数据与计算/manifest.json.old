@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·信息技术必修1 数据与计算",
+  "originalFilename": "普通高中教科书·信息技术必修1 数据与计算.pdf",
+  "originalSize": 15602628,
+  "chunkSize": 5242880,
+  "chunkCount": 3,
+  "sha256": "ad374991abc09826270a3594b9e537d40af923bc1510a3e0174e250bb63ea0fe",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "36e23c6257dfd0fdc9e1b96a54612a8f14ac3e344f1e15bf1f1db102919a268e"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "cf69e20dd61f89cb7be6f5d42467b264941ee42a627a94ddf2fbf6c67b4d1c27"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5116868,
+      "sha256": "d38bfb54f1b77405d358497ca071f52ccb951b9b6d2d486a290fb728bc2c8361"
+    }
+  ]
+}

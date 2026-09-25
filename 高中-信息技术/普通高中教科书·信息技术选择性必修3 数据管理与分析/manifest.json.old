@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·信息技术选择性必修3 数据管理与分析",
+  "originalFilename": "普通高中教科书·信息技术选择性必修3 数据管理与分析.pdf",
+  "originalSize": 13628300,
+  "chunkSize": 5242880,
+  "chunkCount": 3,
+  "sha256": "330e0202ca5ff195144581e1d7f459e4d11af211f0c16bf0d709a73cea69e1bd",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "d87118ca5e99e53ac8208ea8ccb8df825ed71feb52ff259ebaef8e8eeab0f3a4"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "351dc9abc00095c2f6d19d938fecf6fe9220fb0d828aff982135ba630fc7adf1"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 3142540,
+      "sha256": "0ea830fb5e448fe31b1e596757745e7eb8175794696222bd1a359b8dfd523211"
+    }
+  ]
+}

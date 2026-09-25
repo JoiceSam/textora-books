@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·思想政治选择性必修3 逻辑与思维",
+  "originalFilename": "普通高中教科书·思想政治选择性必修3 逻辑与思维.pdf",
+  "originalSize": 17710769,
+  "chunkSize": 5242880,
+  "chunkCount": 4,
+  "sha256": "3539d92e3b6ef2a28f90e5b2c78d523624d88f4910f857547f524f7e9701dc3d",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "a81e7a5fc78e6e3319908a919ba094cf1f53f95ee7878ce7a3a227be1f5b3c8c"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "a5884e6ada6b42ebfb018175a68014e27ba65215bf80f35779563b432fb37b69"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5242880,
+      "sha256": "aedf15dee23fade811948e46f6140a2c53af5b7c165bab6b4b1bec33297c7a37"
+    },
+    {
+      "index": 4,
+      "filename": "part-004.bin",
+      "size": 1982129,
+      "sha256": "d0e00660574549418168e1df68abb905dae017b35a155d72a930e0e2c50e43af"
+    }
+  ]
+}

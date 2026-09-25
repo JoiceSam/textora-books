@@ -1,0 +1,48 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·地理选择性必修2 区域发展",
+  "originalFilename": "普通高中教科书·地理选择性必修2 区域发展.pdf",
+  "originalSize": 30791105,
+  "chunkSize": 5242880,
+  "chunkCount": 6,
+  "sha256": "63a7bf9c238c36955ae1c158be3b4fed9d4a3cca9b15ed705bea664271c56777",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "5dbf4661e44fcc307becaff29956322abc1c5049d3dd51af921e7e6c8044a60c"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "07e89e58e1d4252a564e8e1a6a604a2fc1105fc0e1df049da359e05af7626eea"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5242880,
+      "sha256": "cdd9c4d38b66d6c56aca05dc822517c3c2f67c13051e03dc2e2332fb3f90357c"
+    },
+    {
+      "index": 4,
+      "filename": "part-004.bin",
+      "size": 5242880,
+      "sha256": "c3ba7d49173c7a38882f20e5092f7532876f0406997d200f73e1d3411bb17d8e"
+    },
+    {
+      "index": 5,
+      "filename": "part-005.bin",
+      "size": 5242880,
+      "sha256": "f2413e38fc3c5c2339efa4e9c375c7f9b6d2d04d5eb466b5915ff733711a9f11"
+    },
+    {
+      "index": 6,
+      "filename": "part-006.bin",
+      "size": 4576705,
+      "sha256": "97ddd53565c3cdaef24684524b7bed57fc63f6c8be2e67812a91c15623efa326"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·思想政治必修3 政治与法治",
+  "originalFilename": "普通高中教科书·思想政治必修3 政治与法治.pdf",
+  "originalSize": 17778100,
+  "chunkSize": 5242880,
+  "chunkCount": 4,
+  "sha256": "cce444ce06a7bb5c3504320127ea8ead5ea0800ee4949b763fc42fe5c78d82c2",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "8ea6dcafe614b47b7c5d7209a5eb36dd9381d80c6db524036ed1146dc88e5e36"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "725a64d8a7847dcce3b85b7ddcfd3bff7a49c2ead86878e1053bae7d8e65884e"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5242880,
+      "sha256": "673948b25da7d48c2c49dc7a24bec7264a225ed046570d478c5fbc3ecbb282e0"
+    },
+    {
+      "index": 4,
+      "filename": "part-004.bin",
+      "size": 2049460,
+      "sha256": "04c5d3972e926710453d0b4bf2ea09a7dcc75077cb0460fb2dd2b172076c70d9"
+    }
+  ]
+}

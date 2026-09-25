@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·化学必修 第二册",
+  "originalFilename": "普通高中教科书·化学必修 第二册.pdf",
+  "originalSize": 12793174,
+  "chunkSize": 5242880,
+  "chunkCount": 3,
+  "sha256": "fbaa88aa65396838361bf028f0c9f1490dd98bb4960cdefc7e265575ba527d61",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "7f637abf34b5a7ec5d16b0e10db212911e6e2c8b8bbe9618cf52adaaacafc757"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "06a47171e6b94cbb47438ee87f01ec5ceef69f062b1f3f7df13e3bb91788bf14"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 2307414,
+      "sha256": "b619f49c85b1cf86a8766d8595cbb92a72f3fe5c735e53bcb8e405caa8f293f1"
+    }
+  ]
+}

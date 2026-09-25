@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·历史选择性必修3 文化交流与传播",
+  "originalFilename": "普通高中教科书·历史选择性必修3 文化交流与传播.pdf",
+  "originalSize": 22356568,
+  "chunkSize": 5242880,
+  "chunkCount": 5,
+  "sha256": "d0e57ba8a750f7152cfd71be372e3ed1bb0a80ad08a7a5e3391377cdd5d32042",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "f5ea9200a9e98a0e98865646e216909fbd7e49688d9779b90c6051d19a1f589c"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "4a7ef7fe1a240d4f355a89c16e2d4622cbfc8fb7d521357d60846f31b07b1702"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5242880,
+      "sha256": "bc7afe1c0c5c9fdd2e1d5fe9c2acddcacf8f8d5d32c80a2446e7f6f9745bf3a5"
+    },
+    {
+      "index": 4,
+      "filename": "part-004.bin",
+      "size": 5242880,
+      "sha256": "2429b80e2a8473816f6bf843dbf6804e3a049e6d4a84dcf2295c22a87ccf7e3f"
+    },
+    {
+      "index": 5,
+      "filename": "part-005.bin",
+      "size": 1385048,
+      "sha256": "cd56ee3f0bc70b4d437676112c5bd417f631921e00e3022da82255f959968226"
+    }
+  ]
+}

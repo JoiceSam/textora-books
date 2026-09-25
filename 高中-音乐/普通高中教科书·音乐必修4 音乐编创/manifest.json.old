@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·音乐必修4 音乐编创",
+  "originalFilename": "普通高中教科书·音乐必修4 音乐编创.pdf",
+  "originalSize": 17816188,
+  "chunkSize": 5242880,
+  "chunkCount": 4,
+  "sha256": "e7501922194cb2e507e25bcb27e92c890dbc6b656e6ab2e391bfa172abe477f0",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "00ee19e9e15763080956d8d6f52f8f46a54861942f6c050276b91077edfaef02"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "602c6f5cd395bbee04b2099f50f98a4b4b6af309efc2712b39000f09c741b48d"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5242880,
+      "sha256": "f90ace051bbda52fd2534c4c8ed1ee50ee93bbb60d21468c9897ece38f22a7b1"
+    },
+    {
+      "index": 4,
+      "filename": "part-004.bin",
+      "size": 2087548,
+      "sha256": "93719637cda8b5bacab9bda3ee20867aaf93c5716240bd1095514b9510edf620"
+    }
+  ]
+}

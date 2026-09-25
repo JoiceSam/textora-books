@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·思想政治选择性必修2 法律与生活",
+  "originalFilename": "普通高中教科书·思想政治选择性必修2 法律与生活.pdf",
+  "originalSize": 16969530,
+  "chunkSize": 5242880,
+  "chunkCount": 4,
+  "sha256": "3acde71b50ae11ce95a490f0dba10dbc33430ac5465d74be32f827e8216e3a8a",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "70e5fce87869392b27bcd68892cf942a9f8f5c40284aea3484a5925c54494c57"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "49570b368a270a32492cf82047453cbc0868a61d51e1b9e21d9f8922fead671c"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5242880,
+      "sha256": "d73c7e176aadddb646cc437c98ebdfaa72eeea97beecd6ca52593adb40de974c"
+    },
+    {
+      "index": 4,
+      "filename": "part-004.bin",
+      "size": 1240890,
+      "sha256": "a0f0fd2a89ef98864a99351f41ad6fc89d3205c4d53cb655df0065b0b3261849"
+    }
+  ]
+}

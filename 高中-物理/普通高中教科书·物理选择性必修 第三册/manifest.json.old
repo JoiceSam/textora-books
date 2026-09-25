@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·物理选择性必修 第三册",
+  "originalFilename": "普通高中教科书·物理选择性必修 第三册.pdf",
+  "originalSize": 13401617,
+  "chunkSize": 5242880,
+  "chunkCount": 3,
+  "sha256": "f8c2e78365349f773f03185b70790c3088225de6c7469e5078c4049a12cfab9e",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "848cf7a22b21abfc899d0534dd130efa22f2c29f62b79b4f89960c57054ccc65"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "df0260c2fd58fc9e8f8bee6218911a7a36b1ea933bdbfd343cf3ce54a5d2cd6d"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 2915857,
+      "sha256": "6d59f0ba7d7f71287175975d83c438aefe9ae6d218bbea175590e038ea4ea017"
+    }
+  ]
+}

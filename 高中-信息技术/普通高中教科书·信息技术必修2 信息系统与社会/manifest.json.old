@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·信息技术必修2 信息系统与社会",
+  "originalFilename": "普通高中教科书·信息技术必修2 信息系统与社会.pdf",
+  "originalSize": 25779111,
+  "chunkSize": 5242880,
+  "chunkCount": 5,
+  "sha256": "b78508c8cd75e19c84f13c19e81982b63f8ca8a2725b6f752f9d34ab9dbeb0a0",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "9ae3c733bda8008a87c8ea37af4b97388605990d093eb5c191baff5309f32e1d"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "cf858f93a1a9751607c3f8ccacedc3391ccf4737a7075acda3b193dc78a84107"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5242880,
+      "sha256": "db51db280dc42382eba1bb843e5f68019daa58f01e02a2585880be56e08ee4f0"
+    },
+    {
+      "index": 4,
+      "filename": "part-004.bin",
+      "size": 5242880,
+      "sha256": "094d6d955e9663ec20bc3a2d078eb5f9caa5b0cf99fd2f4bde750431682dda3a"
+    },
+    {
+      "index": 5,
+      "filename": "part-005.bin",
+      "size": 4807591,
+      "sha256": "41aba84990851495d448d57adf54ae1834baacd178d3fd409de925475f4af782"
+    }
+  ]
+}

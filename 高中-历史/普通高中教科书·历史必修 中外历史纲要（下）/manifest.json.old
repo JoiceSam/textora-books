@@ -1,0 +1,54 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·历史必修 中外历史纲要（下）",
+  "originalFilename": "普通高中教科书·历史必修 中外历史纲要（下）.pdf",
+  "originalSize": 35222708,
+  "chunkSize": 5242880,
+  "chunkCount": 7,
+  "sha256": "076c200a2d3af0edc64d815c7279f67808b36f053460ded0572df97cebaaae1c",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "d32d455bd8591646c041cd5e20fd0a67adcd49686588f47092a266da69a4a9dc"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "e31032a7d2aa4b91d88a41b61129f5b995e7f762f00159a26166e9bc3b6bf3ec"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5242880,
+      "sha256": "5568357eecbb988e4085dbf013b610c5fba21dfffa12b47bb6aa775743c1e1f1"
+    },
+    {
+      "index": 4,
+      "filename": "part-004.bin",
+      "size": 5242880,
+      "sha256": "5cfe043647ccebe1d640ae84688f3fe49e972445256f6476a8c765071b7b12c1"
+    },
+    {
+      "index": 5,
+      "filename": "part-005.bin",
+      "size": 5242880,
+      "sha256": "bd5d31ed213e2d4947fed10a804f22fc2d0cb6d2dcbc6d10b7e04b37b1016fc9"
+    },
+    {
+      "index": 6,
+      "filename": "part-006.bin",
+      "size": 5242880,
+      "sha256": "6709a6c23a451afaacf1fb0c7291e57a58063fd9f7574ee151ec8f436a48cc43"
+    },
+    {
+      "index": 7,
+      "filename": "part-007.bin",
+      "size": 3765428,
+      "sha256": "998284c6f7c62a2e3b235ad2025d1da03feb3687dd764864d2bf17905912db39"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·数学（A版）选择性必修 第一册",
+  "originalFilename": "普通高中教科书·数学（A版）选择性必修 第一册.pdf",
+  "originalSize": 16337580,
+  "chunkSize": 5242880,
+  "chunkCount": 4,
+  "sha256": "52a40d8d65cbce83b17707c87c18985065147441faa080491a635c865dd614ae",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "b798559f36118d947238beee15d84605ec4ead195d690228607016532f55c467"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "cc88ac0572f72b315471c933d5994c0700cc2eaaf3638baabb3c9743a77cc557"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5242880,
+      "sha256": "0644af16c81cd800b166eb954846383259c55db020eccbfbf9ba1abf49718af7"
+    },
+    {
+      "index": 4,
+      "filename": "part-004.bin",
+      "size": 608940,
+      "sha256": "ee7c105d60dab6d42afe32ea9ef74fcf4088627c087299ebea724733af4cc63c"
+    }
+  ]
+}

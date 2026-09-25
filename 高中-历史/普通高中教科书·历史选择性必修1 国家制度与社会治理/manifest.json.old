@@ -1,0 +1,48 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·历史选择性必修1 国家制度与社会治理",
+  "originalFilename": "普通高中教科书·历史选择性必修1 国家制度与社会治理.pdf",
+  "originalSize": 27615919,
+  "chunkSize": 5242880,
+  "chunkCount": 6,
+  "sha256": "087f7b18ae6d62ace0d0c193fa84cf8f12d98632ea2ba92fbc102b50fa4b564c",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "1e7c9b54f855d6472cf9c301f6b419cbce9ead862f45572a23a6077e285cd861"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "651be92eb25a09d71ef022d3bf9aa484837b139d6b8ccb849897093f8061b262"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5242880,
+      "sha256": "2be1ac2673f02f050e49fc2b929e90a048ec75ded9a6fb59ae2f64c4d3b5d0a1"
+    },
+    {
+      "index": 4,
+      "filename": "part-004.bin",
+      "size": 5242880,
+      "sha256": "bff4be1a4c37f012505e977800a3e516811042333f6eeb26ca31ff897dc9794e"
+    },
+    {
+      "index": 5,
+      "filename": "part-005.bin",
+      "size": 5242880,
+      "sha256": "926d2a9cf1e779288bbcda6aef30aad44dac5afd13730d8e8b45e00e39b3af8d"
+    },
+    {
+      "index": 6,
+      "filename": "part-006.bin",
+      "size": 1401519,
+      "sha256": "0b2afa133327dae171c6205c1c1d44d68f123218a0af484d62fe1239c033e687"
+    }
+  ]
+}

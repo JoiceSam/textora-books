@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·音乐选择性必修1 合唱",
+  "originalFilename": "普通高中教科书·音乐选择性必修1 合唱.pdf",
+  "originalSize": 16343103,
+  "chunkSize": 5242880,
+  "chunkCount": 4,
+  "sha256": "bbbb7316255112a63fb2b0d53f80a3094f3e8f87dd1d9556731cc02382a96422",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "6f6dc1687621074f470c1c93f2b8bc0dc049f149a4cd76884702512a98bcf5cc"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "3b290c9f5ff827800049e57755e92cf3e48ba3cc9646b6971c6b22ad19ee1f0f"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5242880,
+      "sha256": "354f79648b9341ae80b50c204617a0d05b6cda2da2d9ff1da962f2528115ff89"
+    },
+    {
+      "index": 4,
+      "filename": "part-004.bin",
+      "size": 614463,
+      "sha256": "441328236ce0b9e72d164634f88785e0aa4c5579603acba32a10c5d002595036"
+    }
+  ]
+}

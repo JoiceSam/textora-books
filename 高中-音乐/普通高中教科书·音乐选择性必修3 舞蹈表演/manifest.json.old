@@ -1,0 +1,66 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·音乐选择性必修3 舞蹈表演",
+  "originalFilename": "普通高中教科书·音乐选择性必修3 舞蹈表演.pdf",
+  "originalSize": 44760376,
+  "chunkSize": 5242880,
+  "chunkCount": 9,
+  "sha256": "e0b238f0a6e451b13a19fcaacd74e769acdba1cf01cb92a5acc3b1ea06dc7cde",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "a359a136fa503304fe1e31749a91ac2a10850edc903a869ba821fb7749da8aa2"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "e7e6451dfaa489fa160f67cd8d1f21e42efe413cdfb630efb7a36bf9100bcd91"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5242880,
+      "sha256": "63762b26831786bd78bcc28d6943d8e18c81365733b68e67b76904bc87220b33"
+    },
+    {
+      "index": 4,
+      "filename": "part-004.bin",
+      "size": 5242880,
+      "sha256": "ccdf3d7c868939a7dbf55e4db50320bedabda8458cd03d7bd7220b908b16a952"
+    },
+    {
+      "index": 5,
+      "filename": "part-005.bin",
+      "size": 5242880,
+      "sha256": "ab67bad27c8435e824b5c415395582b71f922dc823352b1ea5f391aa50bc157d"
+    },
+    {
+      "index": 6,
+      "filename": "part-006.bin",
+      "size": 5242880,
+      "sha256": "7eb1283d298e77689e74f489861e002412ebbeaab29c1ff6d2ee263eae936c6b"
+    },
+    {
+      "index": 7,
+      "filename": "part-007.bin",
+      "size": 5242880,
+      "sha256": "485b7714dd0e79efb5b7feeebee638964d47a1b22f58517b0c1330bcbf9113e4"
+    },
+    {
+      "index": 8,
+      "filename": "part-008.bin",
+      "size": 5242880,
+      "sha256": "d18cc3442b5d7bbbf5b4f1aa3bfdc890e573778e19b8913fb7be09738ef6617f"
+    },
+    {
+      "index": 9,
+      "filename": "part-009.bin",
+      "size": 2817336,
+      "sha256": "e5e5408deae98ebd112cab1bd503a0cf349feef8dcd3a2090c34ed530d50997b"
+    }
+  ]
+}

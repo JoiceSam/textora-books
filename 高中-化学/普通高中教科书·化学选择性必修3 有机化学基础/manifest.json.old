@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·化学选择性必修3 有机化学基础",
+  "originalFilename": "普通高中教科书·化学选择性必修3 有机化学基础.pdf",
+  "originalSize": 22093382,
+  "chunkSize": 5242880,
+  "chunkCount": 5,
+  "sha256": "2ecb6f80c879131a0bb8cf14bb58751b638e5d849fa1cded2c6ef72cc70fab40",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "bc4e0d80f007f087a758fd74498973d4f217bbae9ba5d3db904dfbd4c7947f26"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "693eee0dbc40b575fe6c1f43cdd887d213ece2a6aa90c86e06817d4abb791b1e"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5242880,
+      "sha256": "f34fe093a0f7b97120653949f7426e20881918b8e40b13aaae6b88b591fb88e5"
+    },
+    {
+      "index": 4,
+      "filename": "part-004.bin",
+      "size": 5242880,
+      "sha256": "dec2a384ba2eb6f09983ed40f9a8d949ea18fa4c207fdd964224fdde6c0cef39"
+    },
+    {
+      "index": 5,
+      "filename": "part-005.bin",
+      "size": 1121862,
+      "sha256": "0d2819faf5004fbea7c7f14ed4979fb5bee12f6ae727a9ebd98448547d3e54cf"
+    }
+  ]
+}

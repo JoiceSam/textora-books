@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·地理必修 第一册",
+  "originalFilename": "普通高中教科书·地理必修 第一册.pdf",
+  "originalSize": 25019190,
+  "chunkSize": 5242880,
+  "chunkCount": 5,
+  "sha256": "4cae01e59becda4c627006cfd745c399bb082605b00e068739e9abfca3fb3c13",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "7bf428427d26a2ee7264deebe625a722be110fd732c8246b4dd0a70bb6d8e287"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "015731b54c83e9c0d8e00322b2fdbc17a0b2d1189c8b5d25f0cd50b256f8edd9"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5242880,
+      "sha256": "ad7475a595fcca3af3b1371336a7051e3b157162b65046aead55fe2c43fdd508"
+    },
+    {
+      "index": 4,
+      "filename": "part-004.bin",
+      "size": 5242880,
+      "sha256": "2a6ac58bbf17db8c90b86c176823a12575793589c59176f4419d45677cb87dad"
+    },
+    {
+      "index": 5,
+      "filename": "part-005.bin",
+      "size": 4047670,
+      "sha256": "ae955905a44373388945b4fd9c09f4bf9ddd04310b7f9028f9131f46c2c3bef0"
+    }
+  ]
+}

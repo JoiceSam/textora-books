@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·信息技术选择性必修2 网络基础",
+  "originalFilename": "普通高中教科书·信息技术选择性必修2 网络基础.pdf",
+  "originalSize": 17437161,
+  "chunkSize": 5242880,
+  "chunkCount": 4,
+  "sha256": "9358013a21640b24644f09eb3ea7de9afc0e4d6f48dbacb645ad337259f235fa",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "d2378549e0c923be4f45ca667d477ba3f0a7e4a9b5af0410c5cecf0befae36ea"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "13daa19da80b63a164c6b6610a9f33ee8347a7a4ff74c30339e5df419dce7eca"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5242880,
+      "sha256": "d7114be3971b6453c02394d94fb5928efc244883782b8572b1c6a140aeff5ed3"
+    },
+    {
+      "index": 4,
+      "filename": "part-004.bin",
+      "size": 1708521,
+      "sha256": "9a6f096bcdc4b13e622d1f4b2c7ad9ddd83fcf614d1dc425efe1116c8e0d1f14"
+    }
+  ]
+}

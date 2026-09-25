@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·信息技术选择性必修5 三维设计与创意",
+  "originalFilename": "普通高中教科书·信息技术选择性必修5 三维设计与创意.pdf",
+  "originalSize": 22136372,
+  "chunkSize": 5242880,
+  "chunkCount": 5,
+  "sha256": "74b2f43763a76fda29af387084bcbe2359bfe25d2350f9ee4822cd6f37a4d99f",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "2cc46e33dedb2e6f888060c914f6aefcaeddfcdef40f9414c6ab70b219bf3ff2"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "90b25439f4761e35ba8df029b4e1faaa1c27d85f10e07279b38b904b2204e156"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5242880,
+      "sha256": "f4684b39383a10e3a9dcd8fbe778bb2bdf19afef7936faf3380c09976d0b15c3"
+    },
+    {
+      "index": 4,
+      "filename": "part-004.bin",
+      "size": 5242880,
+      "sha256": "b9b3137ad0bf5f6935f1eed019b33ecf57a7ad39bc9aae5441e8d5d3c56dd1ac"
+    },
+    {
+      "index": 5,
+      "filename": "part-005.bin",
+      "size": 1164852,
+      "sha256": "923876e94dd25e946a0270e6f3575ee4cc5b65272eecac55cfc762df8e433fcc"
+    }
+  ]
+}

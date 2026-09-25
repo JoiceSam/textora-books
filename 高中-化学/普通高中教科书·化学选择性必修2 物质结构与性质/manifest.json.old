@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·化学选择性必修2 物质结构与性质",
+  "originalFilename": "普通高中教科书·化学选择性必修2 物质结构与性质.pdf",
+  "originalSize": 18413188,
+  "chunkSize": 5242880,
+  "chunkCount": 4,
+  "sha256": "80bd01587de4d10cd78949e707477df14b2b6848cbc37c9154c72dfc37eedce3",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "34f2c5636068bf9bbf872da9d642523df5e703ead0e89727f36ed1b41603635e"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "95703ca8447f9a7ef93706fe806b1a81c785f4c44870f46cc42e0461ba8d7b0a"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5242880,
+      "sha256": "f37ba6f60b27edb446cd9448263162721116a6feed39ea01a92be097afca2c45"
+    },
+    {
+      "index": 4,
+      "filename": "part-004.bin",
+      "size": 2684548,
+      "sha256": "439f42d3c08fdd099d27a9fca7f6b262e370c7e6536f3b2582206ce90f8cfb4f"
+    }
+  ]
+}

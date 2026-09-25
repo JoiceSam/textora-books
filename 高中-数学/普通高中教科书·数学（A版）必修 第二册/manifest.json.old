@@ -1,0 +1,48 @@
+{
+  "version": 2,
+  "type": "chunked-pdf",
+  "title": "普通高中教科书·数学（A版）必修 第二册",
+  "originalFilename": "普通高中教科书·数学（A版）必修 第二册.pdf",
+  "originalSize": 27692063,
+  "chunkSize": 5242880,
+  "chunkCount": 6,
+  "sha256": "d54f89313043a8b2cfb2fb0f0a76c4b939e0482dfa7e6bcfaef681bb0e11347f",
+  "chunks": [
+    {
+      "index": 1,
+      "filename": "part-001.bin",
+      "size": 5242880,
+      "sha256": "ca08be07cf4b541ccd589ab071143dedfd3a1dcff6fa4bae346adf2c713b9f48"
+    },
+    {
+      "index": 2,
+      "filename": "part-002.bin",
+      "size": 5242880,
+      "sha256": "3cfc146315f722e4c1f9186daf4798b8852ffd9d05825d0228b172bb6c4407fc"
+    },
+    {
+      "index": 3,
+      "filename": "part-003.bin",
+      "size": 5242880,
+      "sha256": "20e35e2e45f8054757f8675efc05a1af9987cc0d646a4e94d4e3e579562a2fc4"
+    },
+    {
+      "index": 4,
+      "filename": "part-004.bin",
+      "size": 5242880,
+      "sha256": "b75600fea87ee9103306dff02038a1ec16f5bc9f34ce7a959ab911c002d96173"
+    },
+    {
+      "index": 5,
+      "filename": "part-005.bin",
+      "size": 5242880,
+      "sha256": "c733153537858ea25034c7fe8555193a6d40c288824b7126cdb729852a97cce0"
+    },
+    {
+      "index": 6,
+      "filename": "part-006.bin",
+      "size": 1477663,
+      "sha256": "9e6363c91ab133fdc0d850e7c91e261194f4efe3ebe539b5ef118d933006b8a1"
+    }
+  ]
+}
